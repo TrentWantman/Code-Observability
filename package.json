@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "@opentelemetry/api": "^1.9.0",
+    "@opentelemetry/exporter-jaeger": "^1.29.0",
     "@opentelemetry/instrumentation-http": "^0.56.0",
     "@opentelemetry/instrumentation-mongodb": "^0.50.0",
     "@opentelemetry/sdk-trace-node": "^1.29.0",
